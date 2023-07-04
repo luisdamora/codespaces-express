@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.ts"
+    "start": "npx nodemon src/index.ts"
   },
   "dependencies": {
     "@types/express": "^4.17.17",
